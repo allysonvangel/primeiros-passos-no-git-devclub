@@ -1,0 +1,15 @@
+* {
+    box-sizing: content-box; /* border-box (A MAIORIA DAS VEZES VOCÊ VAI USAR BORDER-BOX O ELEMENTO SEMPRE FICA DO MESMO TAMANHO WIDTH E O HEIGHT) ou content-box*/
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background: #FF0511;
+    padding: 20px;
+    border: 10px dashed #FF999999;
+
+
+}
+
+/*  BOX SIZING  */
